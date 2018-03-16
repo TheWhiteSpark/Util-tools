@@ -30,6 +30,6 @@ https://www.jetbrains.com/rider/
 
        cd ~/tools/IDE/JetBrains\ Rider-2017.3.1/bin/
     
-and:
+6. Run:
     
-    ./rider.sh
+       ./rider.sh
