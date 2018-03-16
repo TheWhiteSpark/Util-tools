@@ -1,5 +1,5 @@
 # Util-tools
-Repo with scripts and other useful suff that I use. I can't guarantee the tools work flawlessly.
+Repo with scripts and other useful stuff that I use. I can't guarantee the tools work flawlessly.
 
 ## install_dotnet_ubuntu_17.10 
 
