@@ -33,3 +33,30 @@ https://www.jetbrains.com/rider/
 6. Run:
     
        ./rider.sh
+
+## install-stuff
+
+The script installs some useful tools - works with ubuntu 18.04
+
+Installation list:
+* htop
+* curl
+* MySQL 8
+* Git
+* KeepassX
+* Jetbrains Toolbox
+* Spotify
+* .NET Core 2.1
+* Chromium
+* NodeJS and npm
+* Insomnia
+
+Usage:
+```
+sudo ./install-stuff-ubuntu-18.04
+```
+or
+```
+ wget -O - https://raw.githubusercontent.com/TheWhiteSpark/Util-tools/master/install-stuff-ubuntu-18.04 | sudo -E bash -
+
+```
